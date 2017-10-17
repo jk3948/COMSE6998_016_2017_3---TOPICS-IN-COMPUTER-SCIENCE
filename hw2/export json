@@ -1,0 +1,2 @@
+##run the following code directly from the system command 
+#mongoexport  --db twitterDBs --collection theData2 --out sample.json
