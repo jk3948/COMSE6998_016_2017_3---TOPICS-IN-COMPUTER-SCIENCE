@@ -1,0 +1,3 @@
+Export json 
+##run the following code directly from the system command 
+#mongoexport  --db twitterDBs --collection theData3 --out hw3.json   
